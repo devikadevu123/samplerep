@@ -1,0 +1,12 @@
+body {
+	font-family: "Lato", sans-serif;
+        background-image: url("bg2.jpeg");
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-attachment:fixed;
+}
+
+h1 {
+    color: red;
+    
+}
